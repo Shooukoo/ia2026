@@ -1,0 +1,17 @@
+{
+  "articulo": {
+    "minilm": 1.04,
+    "multi": 0.81,
+    "bge": 5.36
+  },
+  "fijo": {
+    "minilm": 0.89,
+    "multi": 1.18,
+    "bge": 4.85
+  },
+  "fijo_traslape": {
+    "minilm": 1.11,
+    "multi": 0.94,
+    "bge": 6.56
+  }
+}

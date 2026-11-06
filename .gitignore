@@ -1,0 +1,20 @@
+# Secretos
+.env
+.env.*
+!.env.template
+!.env.example
+credentials.json
+token.json
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store

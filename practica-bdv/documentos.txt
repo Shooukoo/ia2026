@@ -1,0 +1,12 @@
+Python es un lenguaje de programación interpretado, de tipado dinámico y muy utilizado en ciencia de datos.
+Git es un sistema de control de versiones que registra los cambios del código y permite trabajar en ramas.
+Docker empaqueta una aplicación junto con sus dependencias en un contenedor que se ejecuta igual en cualquier máquina.
+Una API REST expone recursos mediante URLs y utiliza los métodos HTTP GET, POST, PUT y DELETE para manipularlos.
+SQL es el lenguaje estándar para consultar y modificar los datos almacenados en una base de datos relacional.
+Una llave primaria identifica de forma única cada fila de una tabla en una base de datos relacional.
+El sistema operativo Linux es de código abierto y se usa en la mayoría de los servidores de internet.
+Un algoritmo de ordenamiento como quicksort organiza los elementos de una lista de menor a mayor.
+El cifrado convierte un mensaje legible en uno ilegible para que solo quien tenga la clave pueda leerlo.
+Los tacos al pastor se preparan con carne de cerdo adobada, piña, cebolla y cilantro sobre una tortilla de maíz.
+El sistema solar está formado por el Sol y ocho planetas, de los cuales Júpiter es el más grande.
+El ajedrez es un juego de estrategia para dos jugadores que se disputa en un tablero de sesenta y cuatro casillas.

@@ -1,0 +1,200 @@
+JavaScript es el lenguaje que ejecutan los navegadores web para añadir interactividad a las páginas.
+HTML define la estructura de una página web mediante etiquetas como encabezados, párrafos y enlaces.
+CSS controla la apariencia de una página web, como los colores, las fuentes y la disposición de los elementos.
+Una variable almacena un valor en la memoria al que se puede acceder mediante un nombre.
+Un bucle for repite un bloque de código un número determinado de veces.
+Una función agrupa instrucciones reutilizables que pueden recibir parámetros y devolver un resultado.
+Un arreglo es una estructura de datos que guarda elementos ordenados y accesibles por su índice.
+Un diccionario almacena pares de clave y valor y permite buscar datos rápidamente por su clave.
+La recursividad ocurre cuando una función se llama a sí misma para resolver un problema más pequeño.
+La programación orientada a objetos organiza el código en clases que combinan datos y comportamiento.
+Una clase es una plantilla a partir de la cual se crean objetos con atributos y métodos propios.
+La herencia permite que una clase reutilice y extienda el comportamiento de otra clase.
+El polimorfismo permite que objetos de distintas clases respondan de manera diferente al mismo método.
+Una pila es una estructura de datos que funciona bajo el principio de último en entrar, primero en salir.
+Una cola es una estructura de datos que funciona bajo el principio de primero en entrar, primero en salir.
+Una lista enlazada conecta sus elementos mediante referencias al siguiente nodo.
+Una tabla hash asocia claves con valores usando una función que calcula la posición de almacenamiento.
+Un árbol binario es una estructura en la que cada nodo tiene como máximo dos hijos.
+La búsqueda binaria encuentra un elemento en una lista ordenada dividiendo el rango a la mitad en cada paso.
+La notación O grande describe cómo crece el tiempo de ejecución de un algoritmo conforme aumenta la entrada.
+Una base de datos NoSQL almacena información sin depender del esquema fijo de tablas relacionales.
+MongoDB guarda los datos como documentos con formato similar a JSON.
+PostgreSQL es un sistema de bases de datos relacionales de código abierto reconocido por su robustez.
+Una llave foránea enlaza una fila de una tabla con la llave primaria de otra tabla.
+La cláusula JOIN de SQL combina filas de dos o más tablas a partir de una columna relacionada.
+Un índice en una base de datos acelera las consultas a costa de ocupar espacio adicional.
+Una transacción agrupa varias operaciones de base de datos para que se ejecuten todas o ninguna.
+Las propiedades ACID garantizan que las transacciones sean atómicas, consistentes, aisladas y duraderas.
+La normalización organiza las tablas de una base de datos para reducir la redundancia de datos.
+Redis es una base de datos en memoria que se usa con frecuencia como caché.
+HTTP es el protocolo con el que los navegadores y los servidores intercambian información en la web.
+HTTPS cifra la comunicación entre el navegador y el servidor mediante el protocolo TLS.
+Un código de estado 404 indica que el servidor no encontró el recurso solicitado.
+Un código de estado 200 indica que la solicitud se procesó correctamente.
+JSON es un formato de texto ligero para intercambiar datos estructurados entre sistemas.
+Un token JWT permite transmitir de forma compacta información firmada para autenticar a un usuario.
+OAuth 2.0 es un estándar que permite a una aplicación acceder a recursos de un usuario sin conocer su contraseña.
+Un DNS traduce nombres de dominio como ejemplo.com en direcciones IP.
+Una dirección IPv4 está formada por cuatro números entre 0 y 255 separados por puntos.
+IPv6 usa direcciones de 128 bits para ofrecer muchas más direcciones que IPv4.
+Un firewall filtra el tráfico de red según reglas para bloquear conexiones no autorizadas.
+Una VPN crea un túnel cifrado entre el dispositivo del usuario y otra red.
+El puerto 443 es el que se usa por defecto para las conexiones HTTPS.
+SSH permite acceder de forma segura a una máquina remota mediante la línea de comandos.
+Un proxy inverso recibe las peticiones de los clientes y las reenvía a uno o varios servidores internos.
+Nginx es un servidor web que también se utiliza como proxy inverso y balanceador de carga.
+Un balanceador de carga reparte el tráfico entre varios servidores para evitar sobrecargas.
+Una CDN almacena copias del contenido en servidores cercanos al usuario para reducir la latencia.
+La latencia es el tiempo que tarda un dato en viajar desde el origen hasta el destino.
+El ancho de banda es la cantidad máxima de datos que se pueden transmitir por segundo.
+Kubernetes automatiza el despliegue, el escalado y la gestión de contenedores.
+Una imagen de Docker es una plantilla de solo lectura a partir de la cual se crean contenedores.
+Docker Compose define y ejecuta aplicaciones con varios contenedores mediante un archivo YAML.
+YAML es un formato de serialización legible por humanos que se usa mucho en archivos de configuración.
+La integración continua ejecuta pruebas automáticas cada vez que se envían cambios al repositorio.
+Una rama de Git permite desarrollar una función de forma aislada de la línea principal del código.
+El comando git commit guarda una instantánea de los cambios preparados en el repositorio.
+Un pull request propone fusionar los cambios de una rama para que otros los revisen.
+Un conflicto de fusión aparece cuando dos ramas modifican las mismas líneas de un archivo.
+GitHub es una plataforma que aloja repositorios Git y facilita la colaboración entre desarrolladores.
+Las pruebas unitarias verifican que una pequeña parte del código funcione correctamente de forma aislada.
+El desarrollo guiado por pruebas consiste en escribir primero la prueba y después el código que la cumple.
+Refactorizar es mejorar la estructura interna del código sin cambiar su comportamiento externo.
+Un bug es un error en el código que provoca un resultado inesperado.
+Un depurador permite ejecutar un programa paso a paso para encontrar la causa de un error.
+Una API key es una cadena que identifica y autoriza a una aplicación para usar un servicio.
+Un webhook envía automáticamente una notificación HTTP a otra aplicación cuando ocurre un evento.
+Una arquitectura de microservicios divide una aplicación en servicios pequeños e independientes.
+Una aplicación monolítica agrupa toda su lógica en una sola unidad que se despliega en conjunto.
+El patrón MVC separa una aplicación en modelo, vista y controlador.
+React es una biblioteca de JavaScript para construir interfaces de usuario basadas en componentes.
+Node.js permite ejecutar JavaScript fuera del navegador, por ejemplo en un servidor.
+TypeScript añade tipado estático a JavaScript y se compila a JavaScript común.
+Django es un framework de Python que incluye por defecto casi todo lo necesario para una aplicación web.
+Flask es un microframework de Python ligero y flexible para crear aplicaciones web.
+npm es el gestor de paquetes que se instala junto con Node.js.
+pip es la herramienta que se utiliza para instalar paquetes de Python.
+Un entorno virtual aísla las dependencias de un proyecto de Python respecto a las del sistema.
+Pandas es una biblioteca de Python para manipular y analizar datos en tablas.
+NumPy es una biblioteca de Python para realizar cálculos numéricos con arreglos de varias dimensiones.
+El aprendizaje automático permite que un sistema mejore su desempeño a partir de datos sin programar cada regla.
+Una red neuronal es un modelo inspirado en el cerebro que se compone de capas de nodos conectados.
+El aprendizaje supervisado entrena un modelo con ejemplos que ya tienen la respuesta correcta.
+El sobreajuste ocurre cuando un modelo memoriza los datos de entrenamiento y generaliza mal.
+La visión por computadora permite que las máquinas interpreten imágenes y videos.
+YOLO es una familia de modelos que detecta objetos en una imagen en una sola pasada.
+Un modelo de lenguaje grande se entrena con enormes cantidades de texto para predecir y generar lenguaje.
+Un token es una unidad de texto, como una palabra o parte de ella, que procesa un modelo de lenguaje.
+La inteligencia artificial generativa produce contenido nuevo como texto, imágenes o audio.
+Un conjunto de datos de entrenamiento es el material con el que un modelo aprende sus patrones.
+Un bit es la unidad mínima de información y solo puede valer cero o uno.
+Un byte está formado por ocho bits.
+El sistema binario representa los números usando únicamente los dígitos cero y uno.
+El sistema hexadecimal usa dieciséis símbolos, del 0 al 9 y de la A a la F.
+La memoria RAM almacena temporalmente los datos que el procesador está usando.
+Un procesador ejecuta las instrucciones de los programas y coordina las operaciones del equipo.
+Un disco SSD guarda información en memoria flash y es más rápido que un disco duro mecánico.
+La tarjeta gráfica se encarga de procesar imágenes y es muy útil para el entrenamiento de modelos de inteligencia artificial.
+Un sistema operativo administra los recursos del hardware y ofrece servicios a los programas.
+Windows es un sistema operativo desarrollado por Microsoft.
+Un kernel es el núcleo del sistema operativo que controla el acceso al hardware.
+Bash es un intérprete de comandos muy usado en Linux y otros sistemas tipo Unix.
+El comando ls muestra el contenido de un directorio en sistemas Linux.
+El comando chmod cambia los permisos de acceso de un archivo en Linux.
+Un proceso es un programa en ejecución con su propio espacio de memoria.
+Un hilo es una unidad de ejecución dentro de un proceso que comparte su memoria.
+Cron es un programador de tareas que ejecuta comandos en horarios definidos en sistemas Unix.
+Un archivo de registro guarda eventos del sistema que ayudan a diagnosticar problemas.
+Una copia de seguridad guarda los datos en otro lugar para poder recuperarlos si se pierden.
+La regla 3-2-1 recomienda tener tres copias de los datos en dos tipos de medios y una fuera del sitio.
+El agua está formada por dos átomos de hidrógeno y uno de oxígeno.
+La velocidad de la luz en el vacío es de aproximadamente 300 000 kilómetros por segundo.
+La Tierra tarda cerca de 365 días en dar una vuelta completa alrededor del Sol.
+La Luna es el único satélite natural de la Tierra.
+Marte es conocido como el planeta rojo por el óxido de hierro presente en su superficie.
+Mercurio es el planeta más cercano al Sol.
+Saturno es famoso por su sistema de anillos formado principalmente por hielo y roca.
+Plutón fue reclasificado como planeta enano en 2006.
+Una galaxia es un conjunto de estrellas, gas y polvo unido por la gravedad.
+La Vía Láctea es la galaxia en la que se encuentra el sistema solar.
+Un año luz es la distancia que recorre la luz en un año.
+La gravedad es la fuerza que atrae los objetos con masa entre sí.
+Isaac Newton formuló las leyes del movimiento y la ley de la gravitación universal.
+Albert Einstein desarrolló la teoría de la relatividad.
+La fotosíntesis permite a las plantas convertir luz solar, agua y dióxido de carbono en glucosa y oxígeno.
+Las mitocondrias son los orgánulos que producen la mayor parte de la energía de la célula.
+El ADN contiene la información genética de los seres vivos.
+Los glóbulos rojos transportan oxígeno por el cuerpo gracias a la hemoglobina.
+El corazón humano tiene cuatro cavidades: dos aurículas y dos ventrículos.
+El cuerpo humano adulto tiene 206 huesos.
+La piel es el órgano más grande del cuerpo humano.
+Los pulmones permiten el intercambio de oxígeno y dióxido de carbono con la sangre.
+Las vacunas entrenan al sistema inmunitario para reconocer y combatir ciertos agentes patógenos.
+Los antibióticos combaten infecciones bacterianas, pero no son eficaces contra los virus.
+Charles Darwin propuso que las especies evolucionan mediante la selección natural.
+Los mamíferos se caracterizan por alimentar a sus crías con leche materna.
+Las abejas polinizan muchas plantas y son fundamentales para la producción de alimentos.
+El tiburón blanco es un pez, mientras que la ballena azul es un mamífero.
+La ballena azul es el animal más grande que ha existido sobre la Tierra.
+Los hongos no son plantas ni animales, sino que forman su propio reino biológico.
+La tabla periódica organiza los elementos químicos según su número atómico.
+El símbolo químico del oro es Au y el de la plata es Ag.
+El oxígeno constituye cerca del 21 % del aire que respiramos.
+El pH mide qué tan ácida o básica es una sustancia en una escala de 0 a 14.
+El hielo flota porque es menos denso que el agua líquida.
+El agua hierve a 100 grados Celsius a nivel del mar.
+La electricidad es el flujo de electrones a través de un material conductor.
+Un volt es la unidad que mide la diferencia de potencial eléctrico.
+Los paneles solares transforman la luz del sol en electricidad.
+El sonido necesita un medio material para propagarse y no viaja en el vacío.
+México es un país de América del Norte cuya capital es la Ciudad de México.
+El río Bravo marca parte de la frontera entre México y Estados Unidos.
+El Popocatépetl es un volcán activo ubicado entre los estados de Puebla, Morelos y el Estado de México.
+El lago de Chapala es el lago más grande de México y se encuentra entre Jalisco y Michoacán.
+Michoacán es uno de los principales productores de aguacate del mundo.
+La Independencia de México comenzó en 1810 con el Grito de Dolores.
+La Revolución Mexicana inició en 1910.
+Los mexicas fundaron Tenochtitlan en el año 1325 sobre un islote del lago de Texcoco.
+Chichén Itzá es una antigua ciudad maya ubicada en la península de Yucatán.
+La mariposa monarca migra cada año hasta los bosques de Michoacán y el Estado de México.
+El Amazonas es el río más caudaloso del mundo.
+El monte Everest es la montaña más alta del planeta, con casi 8 849 metros.
+El océano Pacífico es el más grande y profundo de los océanos.
+El desierto del Sahara es el desierto cálido más extenso del mundo.
+Australia es el único país que ocupa todo un continente.
+Brasil es el país más grande de América del Sur y su idioma oficial es el portugués.
+Egipto construyó las pirámides de Giza hace más de cuatro mil años.
+El Imperio romano dominó gran parte de Europa y del Mediterráneo durante siglos.
+La Revolución Francesa comenzó en 1789.
+La Segunda Guerra Mundial terminó en 1945.
+Cristóbal Colón llegó a América en 1492.
+La Gran Muralla China fue construida en varias etapas para proteger el territorio de invasiones.
+La imprenta de Gutenberg impulsó la difusión del conocimiento en Europa en el siglo XV.
+La Revolución Industrial transformó la producción con el uso de máquinas y la energía del vapor.
+El ser humano llegó a la Luna por primera vez en 1969 con la misión Apolo 11.
+El guacamole se prepara con aguacate machacado, cebolla, cilantro, limón y chile.
+El mole poblano combina chiles, chocolate y especias en una salsa espesa que se sirve con carne de ave.
+Los tamales se hacen con masa de maíz rellena y envuelta en hojas de maíz o de plátano antes de cocerse al vapor.
+El pozole es un caldo de maíz cacahuazintle que se prepara con carne de cerdo o pollo.
+Las carnitas de Michoacán se cocinan lentamente en manteca de cerdo hasta quedar suaves.
+La tortilla de maíz se elabora con masa nixtamalizada, un proceso que utiliza cal para cocer el grano.
+El chocolate se obtiene de las semillas del cacao, un árbol originario de América.
+El tequila se produce a partir del agave azul, principalmente en el estado de Jalisco.
+El Día de Muertos se celebra el 1 y 2 de noviembre con ofrendas para recordar a los difuntos.
+La Guelaguetza es una fiesta tradicional de Oaxaca con música y danzas de distintas regiones.
+El mariachi es una agrupación musical originaria de Jalisco que usa violines, trompetas y guitarras.
+Frida Kahlo fue una pintora mexicana conocida por sus autorretratos.
+Octavio Paz fue un poeta mexicano que ganó el Premio Nobel de Literatura en 1990.
+Miguel de Cervantes escribió Don Quijote de la Mancha, una de las obras más importantes de la literatura en español.
+Gabriel García Márquez escribió Cien años de soledad, una novela clave del realismo mágico.
+El fútbol se juega entre dos equipos de once jugadores y gana quien anota más goles.
+La Copa Mundial de la FIFA se celebra cada cuatro años.
+México fue sede de la Copa Mundial de Fútbol en 1970 y en 1986.
+Un partido de baloncesto se juega entre dos equipos de cinco jugadores en la cancha.
+El maratón es una carrera a pie de 42,195 kilómetros.
+Los Juegos Olímpicos modernos se celebran cada cuatro años y tienen su origen en la antigua Grecia.
+En el tenis, un set se gana al llegar a seis juegos con una ventaja de dos.
+El dominó se juega con fichas que tienen dos extremos marcados con puntos.
+El sudoku es un rompecabezas numérico que se completa con los dígitos del 1 al 9 sin repetirlos en filas, columnas ni regiones.
+El cubo de Rubik fue inventado en 1974 por el húngaro Ernő Rubik.
